@@ -58,6 +58,8 @@
 ---
 
 ## 🖼️ Demo
+![test](https://github.com/user-attachments/assets/7c720cda-4ffa-4d55-9f63-ef3e6fef2a04)
+
 
 ### Web Interface
 
