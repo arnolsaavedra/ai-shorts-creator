@@ -111,7 +111,7 @@ Each short includes:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-shorts-creator.git
+git clone https://github.com/arnolsaavedra/ai-shorts-creator.git
 cd ai-shorts-creator
 ```
 
@@ -377,10 +377,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have questions, suggestions, or want to collaborate:
 
-- 📧 Email: your-email@example.com
-- 🐦 Twitter: [@your_username](https://twitter.com/your_username)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [@your_username](https://github.com/your_username)
+- 📧 Email: arnolsaavedra04@gmail.com
+- 💼 LinkedIn: [arnolsaavedra(https://linkedin.com/in/arnolsaavedra)
 
 ---
 
