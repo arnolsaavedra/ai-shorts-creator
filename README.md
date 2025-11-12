@@ -19,6 +19,8 @@
 
 ## 📖 Description
 
+https://www.tiktok.com/@Stiff_Clips_USA
+
 **AI Shorts Creator** is an automated web application that uses artificial intelligence to analyze long videos (streams, podcasts, webinars, etc.) and automatically extract the most viral moments, converting them into shorts optimized for TikTok, Instagram Reels, and YouTube Shorts.
 
 ### What makes this project different?
